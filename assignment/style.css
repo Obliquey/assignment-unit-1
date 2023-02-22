@@ -7,8 +7,6 @@ header{
     background-color: #00cfd4;
     color: black;
     text-align: center;
-    margin-left: 75%;
-    margin-right: 75%;
 }
 img{
     max-width: 600px;
@@ -19,14 +17,12 @@ img{
     border-radius: 10px;
     border-style: double;
     display: block;
-    margin: fill;
 }
 footer{
     background-color: #00cfd4;
     color: black;
     text-align: center;
     font-style: italic;
-    margin: fill;
 }
 ul{
     font-family: Arial, Helvetica, sans-serif;

@@ -14,9 +14,9 @@ img{
     height: auto;
     width: auto;
     border: black;
-    border-radius: 6px;
-    border-style: double;
-    margin: auto;
+    border-radius: 10px;
+    border-style: groove;
+    align-self: center;
 }
 footer{
     background-color: black;

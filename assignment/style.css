@@ -8,6 +8,11 @@ header{
     color: white;
     text-align: center;
 }
+img{
+    border: black;
+    border-radius: 3px;
+    border-style: double;
+}
 footer{
     background-color: black;
     color: white;

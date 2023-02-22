@@ -1,11 +1,11 @@
 /* Give your page a fun background color */
 body{
-    background-color: #e1a200;
+    background-color: #00e304;
 }
 /* Make the header and footer a different color from the background */
 header{
-    background-color: black;
-    color: white;
+    background-color: #00cfd4;
+    color: black;
     text-align: center;
 }
 img{
@@ -21,8 +21,8 @@ img{
     margin-right: auto;
 }
 footer{
-    background-color: black;
-    color: white;
+    background-color: #00cfd4;
+    color: black;
     text-align: center;
     font-style: italic;
 }

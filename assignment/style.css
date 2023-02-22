@@ -6,10 +6,13 @@ body{
 header{
     background-color: black;
     color: white;
+    margin: auto;
 }
 footer{
     background-color: black;
     color: white;
+    margin: auto;
+    font-style: italic;
 }
 /* Align the h1 containing your name in the center of the header*/
 

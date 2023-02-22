@@ -17,6 +17,7 @@ img{
     border-radius: 10px;
     border-style: double;
     display: block;
+    margin: auto;
 }
 footer{
     background-color: #00cfd4;

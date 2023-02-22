@@ -12,6 +12,7 @@ img{
     border: black;
     border-radius: 6px;
     border-style: double;
+    margin: auto;
 }
 footer{
     background-color: black;

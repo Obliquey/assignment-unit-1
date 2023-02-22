@@ -15,8 +15,8 @@ img{
     width: auto;
     border: black;
     border-radius: 10px;
-    border-style: groove;
-    align-self: center;
+    border-style: double;
+    align-content: center;
 }
 footer{
     background-color: black;

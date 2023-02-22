@@ -1,7 +1,16 @@
 /* Give your page a fun background color */
-
+body{
+    background-color: #e1a200;
+}
 /* Make the header and footer a different color from the background */
-
+header{
+    background-color: black;
+    color: white;
+}
+footer{
+    background-color: black;
+    color: white;
+}
 /* Align the h1 containing your name in the center of the header*/
 
 /* Make your p tag a different color and italic */

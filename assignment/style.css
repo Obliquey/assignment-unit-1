@@ -5,6 +5,8 @@ body{
     margin-right: auto;
     border: 30px solid;
     border-color: #00cfd4;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 /* Make the header and footer a different color from the background */
 header{

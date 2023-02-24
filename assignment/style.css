@@ -13,6 +13,8 @@ header{
     background-color: #00cfd4;
     color: black;
     text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 img{
     max-width: 600px;

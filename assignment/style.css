@@ -1,6 +1,8 @@
 /* Give your page a fun background color */
 body{
     background-color: #00e304;
+    margin-left: auto;
+    margin-right: auto;
 }
 /* Make the header and footer a different color from the background */
 header{

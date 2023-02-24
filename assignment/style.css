@@ -13,8 +13,7 @@ header{
     background-color: #00cfd4;
     color: black;
     text-align: center;
-    margin-top: 0px;
-    margin-bottom: 0px;
+    padding-top: 0%;
 }
 img{
     max-width: 600px;
@@ -32,6 +31,7 @@ footer{
     color: black;
     text-align: center;
     font-style: italic;
+    padding-bottom: 0%;
 }
 ul{
     font-family: Arial, Helvetica, sans-serif;
